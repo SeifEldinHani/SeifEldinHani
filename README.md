@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **seifhani2016@aucegypt.edu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/seif-el-din-el-moghazy-a21973150/](https://www.linkedin.com/in/seif-el-din-el-moghazy-a21973150/)
+- 📄 Know about my experiences from my [linkedin](https://www.linkedin.com/in/seif-el-din-el-moghazy-a21973150/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
