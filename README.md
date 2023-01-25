@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working at **Instabug 🐞**
 
-- 👨‍💻 All of my projects are available at [Github.com/SeifEldinHani](Github.com/SeifEldinHani)
+- 👨‍💻 All of my projects are available at [My Github](Github.com/SeifEldinHani)
 
-- 📫 How to reach me **seifhani2016@aucegypt.edu**
+- 📫 How to reach me: **seifhani2016@aucegypt.edu**
 
 - 📄 Know about my experiences from my [linkedin](https://www.linkedin.com/in/seif-el-din-el-moghazy-a21973150/)
 
