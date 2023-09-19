@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seif Eldin El Moghazy</h1>
 <h3 align="center">An Egyptian Software Engineer with experience in Backend</h3>
 
-- 🔭 I’m currently working at *Careem :green_heart:*
+- 🔭 I’m currently working at Careem :green_heart:
 
 - 👨‍💻 All of my projects are available in here 
 
